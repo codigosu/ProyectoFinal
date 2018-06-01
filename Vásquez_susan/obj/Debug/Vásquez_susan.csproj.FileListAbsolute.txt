@@ -1,0 +1,34 @@
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\bin\Debug\Vásquez_susan.exe.config
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\bin\Debug\Vásquez_susan.exe
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\bin\Debug\Vásquez_susan.pdb
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.csprojResolveAssemblyReference.cache
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Form1.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Formadmin.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Formempleado.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Properties.Resources.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.csproj.GenerateResource.Cache
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.csproj.CoreCompileInputs.cache
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.exe
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.pdb
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Formcontraseniaadmin.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Formcontraseñaempleado.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Formtrastienda.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Formcrearadminempleado.resources
+C:\Users\Compucel\Documents\progra III\proyecto final\Vásquez_susan\Vásquez_susan\obj\Debug\Vásquez_susan.Formreportgeneral.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\bin\Debug\Vásquez_susan.exe.config
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\bin\Debug\Vásquez_susan.exe
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\bin\Debug\Vásquez_susan.pdb
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.csprojResolveAssemblyReference.cache
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Form1.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Formadmin.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Formcontraseniaadmin.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Formcontraseñaempleado.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Formcrearadminempleado.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Formempleado.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Formreportgeneral.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Formtrastienda.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.Properties.Resources.resources
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.csproj.GenerateResource.Cache
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.csproj.CoreCompileInputs.cache
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.exe
+C:\Users\Compucel\Documents\final\proyectoprogra\Vásquez_susan\obj\Debug\Vásquez_susan.pdb
