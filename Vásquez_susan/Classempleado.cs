@@ -16,7 +16,6 @@ namespace Vásquez_susan
         private int dinerecibido;
         DateTime fhventa;
         String nomcajero;
-
         public int Nitcliente { get => nitcliente; set => nitcliente = value; }
         public string Producvendido { get => producvendido; set => producvendido = value; }
         public int Cantprodvendido { get => cantprodvendido; set => cantprodvendido = value; }
